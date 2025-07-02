@@ -230,13 +230,11 @@ body.fullscreen-enabled.mobile #autorotateToggle {
 }
 
 #sceneListToggle .icon {
-  width: 30px;
-  height: 30px;
+display: block;
 }
 
 .mobile #sceneListToggle .icon {
-  top: 10px;
-  right: 10px;
+ display: block;
 }
 
 #sceneListToggle .icon.on {
